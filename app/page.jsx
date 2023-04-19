@@ -1,5 +1,4 @@
 import ListUsers from '@/components/ListUsers';
-import UserCard from '@/components/UserCard';
 import React from 'react'
 
 async function fetchUsers(){
