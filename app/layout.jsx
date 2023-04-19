@@ -1,4 +1,4 @@
-import NavigationBar from '@/components/NavigationBar'
+import NavigationBar from '../components/NavigationBar'
 import './globals.css'
 
 export const metadata = {

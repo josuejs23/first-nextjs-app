@@ -1,4 +1,4 @@
-import ListUsers from '@/components/ListUsers';
+import ListUsers from '../components/ListUsers';
 import React from 'react'
 
 async function fetchUsers(){
